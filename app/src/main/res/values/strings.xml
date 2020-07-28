@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PruebaRxJavaLogin</string>
+    <string name="et_login_nombre">Nombre</string>
+    <string name="et_login_apellido">Apellido</string>
+    <string name="btn_login_entrar">Entrar</string>
+
+    <string name="error_400">Los datos empleados en la consulta no son correctos o la url es errónea</string>
+    <string name="error_autorizacion">No tiene autorización para realizar la consulta</string>
+    <string name="error_dato_no_encontrado">Recurso no encontrado</string>
+    <string name="error_servidor">Error en el servidor</string>
+    <string name="error_json">Error de sintáxis en el objeto Json</string>
+    <string name="error_conexion">No hay conexión</string>
+</resources>
